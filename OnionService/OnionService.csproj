@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnionDomain\OnionDomain.csproj" />
+    <ProjectReference Include="..\OnionRepository\OnionRepository.csproj" />
+  </ItemGroup>
+
+</Project>
