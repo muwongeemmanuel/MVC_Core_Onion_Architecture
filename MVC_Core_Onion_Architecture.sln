@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionWeb", "OnionWeb\OnionWeb.csproj", "{0B7FA824-DA0D-4047-94A7-6FA627194794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionWeb", "OnionWeb\OnionWeb.csproj", "{0B7FA824-DA0D-4047-94A7-6FA627194794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionDomain", "OnionDomain\OnionDomain.csproj", "{C6257E4F-BFD9-4815-83C8-FB342E992E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionDomain", "OnionDomain\OnionDomain.csproj", "{C6257E4F-BFD9-4815-83C8-FB342E992E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionRepository", "OnionRepository\OnionRepository.csproj", "{C5D30347-79C8-4312-8D75-A24A3C66A2C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionRepository", "OnionRepository\OnionRepository.csproj", "{C5D30347-79C8-4312-8D75-A24A3C66A2C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionService", "OnionService\OnionService.csproj", "{16AD1851-9E7F-4C3E-9C21-42FF3FAF848A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnionService", "OnionService\OnionService.csproj", "{16AD1851-9E7F-4C3E-9C21-42FF3FAF848A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
